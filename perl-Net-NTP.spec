@@ -8,12 +8,12 @@
 Summary:	Net::NTP - Perl extension for decoding NTP server responses
 Summary(pl.UTF-8):	Net::NTP - rozszerzenie Perla do obsługi odpowiedzi od serwerów NTP
 Name:		perl-%{pdir}-%{pnam}
-Version:	1.3
+Version:	1.5
 Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ddd9b21daac0c4adad32ece4c738ae71
+# Source0-md5:	b6feb8c552ba81e34b270fdf3e7b7c5f
 URL:		http://search.cpan.org/dist/Net-NTP/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
