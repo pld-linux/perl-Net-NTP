@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	NTP
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::NTP - Perl extension for decoding NTP server responses
 Summary(pl.UTF-8):	Net::NTP - rozszerzenie Perla do obsługi odpowiedzi od serwerów NTP
 Name:		perl-%{pdir}-%{pnam}
